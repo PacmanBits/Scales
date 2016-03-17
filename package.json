@@ -1,0 +1,21 @@
+{
+  "name": "scales",
+  "version": "1.0.0",
+  "description": "An image comparison utility",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sandy (Sando Calrissian) Gifford",
+  "license": "ISC",
+  "dependencies": {
+    "node-http-server": "^5.1.0",
+    "webworkify": "^1.1.0"
+  },
+  "devDependencies": {
+    "browserify": "^13.0.0",
+    "grunt": "^0.4.5",
+    "grunt-browserify": "^5.0.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
